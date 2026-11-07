@@ -1,2 +1,7 @@
 # ucccfreeforever
-UCCC-ultimate custom cursor creater programm for drawing your own cursor .cur or .ani with big functional
+## Source Code
+
+UCCC is open source. Anyone can view and inspect the source code.
+
+- [View source code (uccc.py)](./uccc.py)
+- [Download source code](https://github.com/casualty305/ucccfreeforever/archive/refs/heads/main.zip)
